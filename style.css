@@ -1,0 +1,23 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@1.0.0/css/bulma.min.css";
+body{
+    background-color:#bf46b3;
+    background-image: url(export.svg);
+    height:100vh;
+}
+.box{
+    width: 400px;
+}
+.container1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    display:flex ;
+    justify-content: center;
+    color: black;
+
+}
+.text{
+    text-align: center;
+}
